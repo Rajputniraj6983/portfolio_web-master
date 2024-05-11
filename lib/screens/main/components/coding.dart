@@ -23,15 +23,15 @@ class Coding extends StatelessWidget {
           ),
         ),
         const AnimatedLinearProgressIndicator(
-          percentage: 0.7,
+          percentage: 0.85,
           label: 'Dart',
         ),
         const AnimatedLinearProgressIndicator(
-          percentage: 0.68,
+          percentage: 0.76,
           label: 'Python',
         ),
         const AnimatedLinearProgressIndicator(
-          percentage: 0.9,
+          percentage: 0.90,
           label: 'C++',
         ),
         const AnimatedLinearProgressIndicator(
@@ -39,7 +39,7 @@ class Coding extends StatelessWidget {
           label: 'C Language',
         ),
         const AnimatedLinearProgressIndicator(
-          percentage: 0.58,
+          percentage: 0.40,
           label: 'Java',
         ),
       ],

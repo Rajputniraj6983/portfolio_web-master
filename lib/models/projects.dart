@@ -19,10 +19,6 @@ List<Project> demo_projects = [
     description: "A Bhagavad Gita application offers the ancient Hindu scripture in text format for easy access on electronic devices. Users can read and study the profound philosophical concepts and spiritual wisdom contained within the text at their convenience."
   ),
   Project(
-    title: "Welcome Page , Log-In Page and Sign-Up Page UI",
-    description: "Welcome Page : The Welcome Page greets users with the app's branding and a captivating background, enticing them to explore further.\nLog-In Page: The Log-In Page allows existing users to access their accounts by entering their credentials, with options for password recovery or alternative sign-in methods.\n Sign-Up Page:The Sign-Up Page enables new users to create accounts by providing necessary information and completing the registration process with a Sign Up button."
-  ),
-  Project(
     title: "Resume-Builder Application",
     description: "A resume builder app helps users create professional resumes quickly. It offers templates, formatting tools, and guidance to showcase skills and experiences effectively. Users input their details, and the app formats them into polished resumes, which can be downloaded or shared easily."
   ),

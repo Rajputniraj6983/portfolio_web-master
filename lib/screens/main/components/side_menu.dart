@@ -33,7 +33,7 @@ class SideMenu extends StatelessWidget {
                     ),
                     const AreaInfoText(
                       title: "Age",
-                      text: "22",
+                      text: "23",
                     ),
                     const Skills(),
                     const SizedBox(
